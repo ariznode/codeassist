@@ -2,9 +2,13 @@
 
 #### Install Dependencies
 
+```bash
 apt update && apt upgrade -y
+```
 
+```bash
 apt install screen curl iptables build-essential git wget lz4 jq make gcc nano automake autoconf tmux htop nvme-cli libgbm1 pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev -y
+```
 
 ## Docker
 ```bash
@@ -33,14 +37,20 @@ sudo docker run hello-world
 
 ## Python
 
-`apt install python3 python3-pip python3-venv python3-dev -y`
+```bash
+apt install python3 python3-pip python3-venv python3-dev -y
+```
 
 ## UV
 
-``curl -LsSf https://astral.sh/uv/install.sh | sh
-export PATH="/root/.local/bin:$PATH"``
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+export PATH="/root/.local/bin:$PATH"
+```
 
-`uv --version`
+```bash
+uv --version
+```
 
 # Clone Codeassist Repository
 
