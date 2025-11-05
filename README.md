@@ -44,12 +44,6 @@ export PATH="/root/.local/bin:$PATH"``
 
 # Clone Codeassist Repository
 
-Run inside screen
-
-```bash
-screen -S code
-```
-
 ```bash
 git clone https://github.com/gensyn-ai/codeassist.git
 cd codeassist
