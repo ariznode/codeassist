@@ -3,6 +3,12 @@
 ## Reruitmens
 Minimum Specification
 
+Make sure to be root user on your wsl/ubuntu
+
+```bash
+sudo su
+```
+
 CPU : 4 core
 RAM : 8GB
 
