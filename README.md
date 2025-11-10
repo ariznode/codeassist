@@ -2,15 +2,14 @@
 
 ## Reruitmens
 Minimum Specification
+CPU : 4 core
+RAM : 8GB
 
 Make sure to be root user on your wsl/ubuntu
 
 ```bash
 sudo su
 ```
-
-CPU : 4 core
-RAM : 8GB
 
 This guide working for local pc Ubuntu/WSL, and not working for VPS!
 
