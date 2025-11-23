@@ -101,6 +101,14 @@ Note if you are running swarm you can change port 3000 to 3001 on
 nano run.py
 ```
 
+Or running with
+
+```bash
+uv run run.py --port 3001
+```
+
+and open http://localhost:3001
+
 
 
 
