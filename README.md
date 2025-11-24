@@ -13,8 +13,6 @@ Make sure to be root user on your wsl/ubuntu
 sudo su
 ```
 
-This guide working for local pc Ubuntu/WSL, and not working for VPS!
-
 # Installation
 
 #### Install Dependencies
