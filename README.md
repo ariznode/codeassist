@@ -45,7 +45,7 @@ sudo docker run hello-world
 ## Python
 
 ```bash
-apt install python3 python3-pip python3-venv python3-dev -y
+sudo apt install python3 python3-pip python3-venv python3-dev -y
 ```
 
 ## UV
