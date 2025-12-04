@@ -7,12 +7,6 @@ CPU : 4 core
 RAM : 8GB (12GB recommended)
 Good internet speed
 
-Make sure to be root user on your wsl/ubuntu
-
-```bash
-sudo su
-```
-
 # Installation
 
 #### Install Dependencies
